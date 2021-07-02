@@ -4,6 +4,5 @@ The purpose of this exercice, is to create a Spring REST Controller to get data 
 
 Happy to share !
 
-Result path : https://github.com/CiPhantom/JavaLearnings/blob/java-httprequest-get-GsonLib/src/main/java/Application.java
-
+Result path : https://github.com/CiPhantom/JavaLearnings/blob/httprequest-and-springbootweb-restapi/src/main/java/com/example/serverjwtexercice/demo/controller/HelloController.java
 😌
