@@ -6,6 +6,6 @@ and I use Gson library from google to parse using fromJson() method.
 
 Happy to share ! 
 
-Result path : 
+Result path : https://github.com/CiPhantom/JavaLearnings/blob/java-httprequest-get-GsonLib/src/main/java/Application.java
 
 :relieved:
