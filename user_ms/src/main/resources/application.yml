@@ -13,7 +13,10 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
   application:
     name: user_microservice
+
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://172.21.160.1:7761/eureka
+  instance:
+    prefer-ip-address: true
